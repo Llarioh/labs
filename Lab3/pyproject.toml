@@ -1,0 +1,10 @@
+[project]
+name = "lab3"
+version = "0.1.0"
+description = "lab3"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    'psycopg2-binary==2.9.10',
+    'matplotlib==3.10.3'
+]

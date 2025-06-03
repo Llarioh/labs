@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: lab3
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: psycopg2-binary==2.9.10
+Requires-Dist: matplotlib==3.10.3
+
+## Лабораторная работа №3
+```
+uv venv
+source .venv/bin/activate
+```
+```
+uv sync
+```
+```
+sudo docker compose up
+```
+![img.png](img.png)
+```
+sudo docker stop master
+```
+![img_2.png](img_2.png)
+```
+python lab3.py
+```
+![img_1.png](img_1.png)
+
+![img_3.png](img_3.png)

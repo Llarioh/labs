@@ -1,0 +1,9 @@
+README.md
+lab3.py
+pyproject.toml
+lab3.egg-info/PKG-INFO
+lab3.egg-info/SOURCES.txt
+lab3.egg-info/dependency_links.txt
+lab3.egg-info/entry_points.txt
+lab3.egg-info/requires.txt
+lab3.egg-info/top_level.txt
